@@ -1,5 +1,5 @@
 package tp3.ejercicio10;
-
+ 
 import java.util.LinkedList;
 import java.util.List;
 
@@ -47,6 +47,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
+		
 		List<Integer> resultado = new LinkedList<Integer>();
 		GeneralTree<Integer> arbol = crearArbol1();
 		resultado = ParcialArboles.resolver(arbol);
