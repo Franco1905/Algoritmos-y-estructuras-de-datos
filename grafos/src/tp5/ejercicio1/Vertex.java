@@ -1,4 +1,4 @@
-package tp5.ejercicio1;
+package src.tp5.ejercicio1;
 
 public interface Vertex<T> {
 	
