@@ -1,4 +1,4 @@
-package tp5.ejercicio1.listaAdy;
+package src.tp5.ejercicio1.listaAdy;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNull;
@@ -10,9 +10,9 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import tp5.ejercicio1.Edge;
-import tp5.ejercicio1.Graph;
-import tp5.ejercicio1.Vertex;
+import src.tp5.ejercicio1.Edge;
+import src.tp5.ejercicio1.Graph;
+import src.tp5.ejercicio1.Vertex;
 
 public class GraphTest {
 	AdjListGraph<Integer> grafo;

@@ -1,11 +1,11 @@
-package tp5.ejercicio1.listaAdy;
+package src.tp5.ejercicio1.listaAdy;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import tp5.ejercicio1.Edge;
-import tp5.ejercicio1.Graph;
-import tp5.ejercicio1.Vertex;
+import src.tp5.ejercicio1.Edge;
+import src.tp5.ejercicio1.Graph;
+import src.tp5.ejercicio1.Vertex;
 
 public class AdjListGraph<T> implements Graph<T> {
 
